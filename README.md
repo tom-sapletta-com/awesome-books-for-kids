@@ -35,7 +35,7 @@ Follow **Hypermodularity** on your favorite social media to get daily updates on
 
 ## [Contributions](http://contribution.softreck.dev)
 
-[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
+[Contribution](CONTRIBUTION.md) are always welcome:
 + did you found an [Issue or Mistake](https://github.com/tom-sapletta-com/awesome-books-for-kids/issues/new)?
 + do you want to [improve](https://github.com/tom-sapletta-com/awesome-books-for-kids/edit/main/README.md) the article?
 + are you interested do join another [git projects](https://github.com/tom-sapletta-com/)?
